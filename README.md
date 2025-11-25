@@ -7,3 +7,7 @@ main - пользовательский блок. Выбор настроек д
 generator - функции генерации единичного тайла и тайлсета. Хранение цветов палитр
 
 saved - Сохранение тайлсета в формате png
+
+Use Case Diagram:
+
+<img width="852" height="947" alt="Снимок экрана 2025-11-25 162259" src="https://github.com/user-attachments/assets/07753a52-47dc-4e39-9625-77fa4f72ba97" />
